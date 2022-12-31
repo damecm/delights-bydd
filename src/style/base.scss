@@ -7,14 +7,9 @@ body {
 }
 
 .container {
-    display: grid;
+    display: flex;
     grid-template-columns: 1fr;
     font-family: 'Bangers';
     
     
-}
-a {
-    color: $pistach;
-    font-weight: 900;
-    font-size: 2rem;
 }

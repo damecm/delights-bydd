@@ -15,12 +15,13 @@
         background-color: $pistach;
         h1 {
             font-size: 3rem;
-            
+            font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             font-style: italic;
             color: rgb(25, 23, 23);
             text-align: center;
             
         }
+        
         p {
             font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             text-align: center;
@@ -29,7 +30,6 @@
             font-size: 2rem;
             font-style: italic;
         }
-        
     }
 }
 
