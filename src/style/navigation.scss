@@ -1,0 +1,42 @@
+.nav-background-wrapper {
+  background-image: url("../../static/assets/images/background/homepage.jpg");
+  
+  
+  .nav-wrapper {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    
+    
+    .nav-link-wrapper {
+      height: 25px;
+      border-bottom: 1.5px solid transparent;
+      transition: 0.5s ease-in-out;
+      margin-left: 50px;
+      margin-right: 50px;
+      margin-top: none;
+      margin-bottom: 20px;
+      font-size: 3rem;
+      
+      a {
+        color: rgb(255, 218, 125);
+        text-indent: 2rem;
+        text-decoration: none;
+        &:hover {
+          color: rgb(165, 112, 42);
+          
+        }
+      }
+      
+      
+      .nav-link-active {
+        border-bottom: 5px solid rgb(165, 112, 42);
+        color: rgb(236, 186, 58);;
+      }
+    }
+    
+    
+    
+    
+  }
+}

@@ -1,0 +1,14 @@
+.content-page-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    height: calc(100vh - 84px);
+    color:black;
+    background-color: $pistach;
+    
+}
+
+p {
+    font-size: larger;
+    color: $pistach;
+    background: black;
+}
