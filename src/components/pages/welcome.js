@@ -1,5 +1,5 @@
 import React from 'react';
-import welcomePic from "../../../static/assets/images/background/welcomepage2.jpg";
+import welcomePic from "../../../static/assets/images/background/welcomePage2.jpg";
 import { Link } from 'react-router-dom';
 import { handleMouseEnter, handleMouseLeave } from '../menu/menu-item';
 export default function() {
