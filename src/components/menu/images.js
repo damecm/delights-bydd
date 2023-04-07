@@ -75,5 +75,12 @@ const images= [
     item_img: "https://images2.imgbox.com/d6/b9/i4bnhL2x_o.png",
     item_name: "Chicken Enchiladas",
     item_price: "$24.00 (sold individually)"
+  },
+  {
+    id: 13,
+    item_category: "Entree",
+    item_img: "https://images2.imgbox.com/2a/a0/2e6Y08sC_o.jpg",
+    item_name: "Spicy Chicken Crack Slaw",
+    item_price: "$25.00 per batch (serves 2-3)"
   }
 ]
