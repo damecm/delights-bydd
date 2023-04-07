@@ -1,5 +1,5 @@
 import React from 'react';
-import MenuContainer from "../menu/menu-container"
+import MenuContainer from "../menu/menu-container";
 
 export default function() {
 
